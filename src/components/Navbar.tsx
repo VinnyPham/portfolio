@@ -43,7 +43,7 @@ export default function Navbar() {
         </ul>
 
         <a
-          href="https://github.com"
+          href="https://github.com/VinnyPham"
           target="_blank"
           rel="noopener noreferrer"
           className={styles.githubBtn}
